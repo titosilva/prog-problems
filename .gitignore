@@ -1,1 +1,7 @@
 *.out
+.vscode
+*.pyc
+.venv
+**/HackTheBox CubeMadness1_Data/**
+*.dll
+*.exe
