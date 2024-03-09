@@ -1,0 +1,9 @@
+10101 base 2 = 21 base 10
+126 is an illegal base 5 number
+A4C base 15 = 1821 base 11
+00A4C base 15 = 1821 base 11
+FFFFFFFFFF base 16 = 1099511627775 base 10
+0000000000 base 2 = 0 base 10
+1010001010 base 2 = 650 base 10
+1010001010 base 2 = 28a base 16
+001230000000 base 10 = 1230000000 base 10
