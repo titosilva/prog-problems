@@ -5,3 +5,5 @@
 **/HackTheBox CubeMadness1_Data/**
 *.dll
 *.exe
+*.zip
+rockyou.txt

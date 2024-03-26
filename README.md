@@ -1,2 +1,2 @@
-# prog-problems
-Repository to contain my studies and exercises
+# problems
+Programming problems I've solved or I'm working on
